@@ -7,7 +7,8 @@
 
 <h2>Work Experience</h2>
 
-- Software Engineer @ HubSpot (2024 - Present)
+- Software Engineer @ Coinbase (2025 - Present)
+- Software Engineer @ HubSpot (2024 - 2025)
 - Software Engineer Intern @ Morgan Stanley (2023)
 - Software Engineer Intern @ American Express (2023)
 
