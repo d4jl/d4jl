@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-- I'm a Software Engineer at HubSpot. I'm passionate about Cryptography, Blockchain and Cloud Computing. 
+- I'm a Software Engineer at Coinbase. I'm passionate about Cryptography, Blockchain and Cloud Computing. 
 - SWYgeW91IHdhbnQgdG8gd29yayBvbiBhbnkgcHJvamVjdHMsIHBsZWFzZSByZWFjaCBvdXQ=
 
 <h2>Work Experience</h2>
